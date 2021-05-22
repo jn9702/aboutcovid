@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>123</title>
-    <url>/2021/05/21/123/</url>
-    <content><![CDATA[]]></content>
+    <title>科普小园讲座 2021-05-21</title>
+    <url>/9aa11f3b.html</url>
+    <content><![CDATA[<audio controls>
+  <source src="/mp3/kpxy210521.mp3" type="audio/mpeg">
+</audio>]]></content>
       <categories>
-        <category>test</category>
+        <category>科普小园讲座</category>
       </categories>
+      <tags>
+        <tag>印度</tag>
+        <tag>变种</tag>
+        <tag>口罩</tag>
+        <tag>疫苗</tag>
+      </tags>
   </entry>
   <entry>
     <title>aboutcovid</title>
-    <url>/2021/05/21/aboutcovid/</url>
+    <url>/9b5927d3.html</url>
     <content><![CDATA[]]></content>
   </entry>
 </search>
