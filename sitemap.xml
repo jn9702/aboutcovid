@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://covid-ch.xyz/9aa11f3b.html</loc>
+    
+    <lastmod>2021-05-23</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://covid-ch.xyz/9b5927d3.html</loc>
     
     <lastmod>2021-05-23</lastmod>
@@ -10,13 +17,6 @@
   
   <url>
     <loc>https://covid-ch.xyz/about/index.html</loc>
-    
-    <lastmod>2021-05-22</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://covid-ch.xyz/9aa11f3b.html</loc>
     
     <lastmod>2021-05-22</lastmod>
     
@@ -67,7 +67,7 @@
   </url>
   
   <url>
-    <loc>https://covid-ch.xyz/tags/%E5%8F%A3%E7%BD%A9/</loc>
+    <loc>https://covid-ch.xyz/tags/%E6%B7%B7%E6%89%93/</loc>
     <lastmod>2021-05-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -75,6 +75,20 @@
   
   <url>
     <loc>https://covid-ch.xyz/tags/%E7%96%AB%E8%8B%97/</loc>
+    <lastmod>2021-05-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://covid-ch.xyz/tags/%E5%AD%95%E5%A6%87/</loc>
+    <lastmod>2021-05-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://covid-ch.xyz/tags/%E5%B0%8F%E5%AD%A9/</loc>
     <lastmod>2021-05-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
